@@ -12,13 +12,13 @@ A program that stores rolling Students into the Local Storage </br></br>
 
 ## 🌟 Features/Concepts Learned
 
-- �🖥🏻‍♀️ 2 Front-end Pages
-- 🔏 Backend using Dev Tools (Inspect Element) and the the Local Storage Method
-- 🏦 Implementation of Students and displaying them in the UI
-- 📑 Inserting `Keys/Values` into the Local Storage
-- 💳 Converting strings and arrays using the `.JSON` method.
-- 💵 Appending elements
-- 📈 Storing Arrays/Objects and returning them into a String.
+- 💻 2 Front-end Pages
+- 📊 Backend using Dev Tools (Inspect Element) and the Local Storage Method
+- 💻 Implementation of Students and displaying them in the UI
+- 🗄 Inserting `Keys/Values` into the Local Storage
+- 💻 Converting strings and arrays using the `.JSON` method.
+- ➕ Appending elements
+- 🔀 Storing Arrays/Objects and returning them into a String.
 
 
 ## 📂 Technologies Used
