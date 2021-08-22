@@ -5,7 +5,7 @@
 <h1 align="center">LocalStorage</h1>
 
 <div align="center">
-A program that stores rolling Students into the Local Storage </br></br>
+A program that stores rolling Students Data into the Local Storage </br></br>
 </div>
 
 ### 📊 Project idea: Full Stack Development Begginer Demo
