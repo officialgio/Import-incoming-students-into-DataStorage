@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="150" src="./client/src/assets/biller_logo.png">
+    <img width="150" src="./images/logox.png">
 </p>
 
-<h1 align="center">Biller</h1>
+<h1 align="center">LocalStorage</h1>
 
 <div align="center">
 A 3-tier web application for monitor financial status and monthly spending. </br></br>
