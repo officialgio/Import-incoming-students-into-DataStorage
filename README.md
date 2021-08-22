@@ -8,7 +8,7 @@
 A program that stores rolling Students into the Local Storage </br></br>
 </div>
 
-### 📊 Project Storyboard: [Biller](https://github.com/trinityng/Biller/projects/1)
+### 📊 Project idea: [Full Stack Development Begginer Demo]
 
 ## 🌟 Features
 
