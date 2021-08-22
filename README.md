@@ -117,12 +117,9 @@ cd client
 npm test
 ```
 
-## ⭐️ Authors
+## 📌 Authors
 
-👩🏻‍💻 **Trinity Nguyen** - [trinwin](https://github.com/trinwin) (Project Lead + Frontend Lead)
+🧑🏽‍💻 **Giovanny Hernandez* - Created the Front End and code along with Max.
 
-👨🏻‍💻 **Au Tran** - [au-tran](https://github.com/au-tran) (Backend Lead)
+🧑🏽‍💻 **Max Programming** - Code along and Explanation into Local Storage
 
-👨🏻‍💻 **Matthew Vu** - [Redjay17](https://github.com/Redjay17) (Frontend Developer)
-
-See also the list of [contributors](https://github.com/trinityng/Biller/contributors) who participated in this project.
