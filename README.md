@@ -6,23 +6,6 @@
 
 <div align="center">
 A program that stores rolling Students into the Local Storage </br></br>
-
-<a href="https://github.com/trinityng/Biller/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-green.svg" alt="PRs Welcome" />
-</a>
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/trinityng/Biller">
-<a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/github/languages/top/trinityng/Biller" alt="Top Language" />
-</a>
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/trinityng/Biller">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/trinityng/Biller">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/trinityng/Biller">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/trinityng/Biller">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/trinityng/Biller">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/trinityng/Biller?style=social">
-
-![Biller gif demo](./doc/demo/Biller-Demo.gif)
-
 </div>
 
 ### 📊 Project Storyboard: [Biller](https://github.com/trinityng/Biller/projects/1)
