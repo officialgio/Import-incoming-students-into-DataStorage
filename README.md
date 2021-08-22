@@ -40,7 +40,7 @@ Grab the `student-list` file and insert each student into the Local Storage by a
 
 Open Dev Tools by...
 
-- right clicking and click on `Inspect Element`
+- Right click and click on `Inspect Element`
 - On the Nav Bar find your way into the `>>`.
 - Click on `Application`
 - Scroll down and find `Storage` and click it to view more.
