@@ -5,7 +5,7 @@
 <h1 align="center">LocalStorage</h1>
 
 <div align="center">
-A 3-tier web application for monitor financial status and monthly spending. </br></br>
+A program that stores rolling Students into the Local Storage </br></br>
 
 <a href="https://github.com/trinityng/Biller/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-green.svg" alt="PRs Welcome" />
