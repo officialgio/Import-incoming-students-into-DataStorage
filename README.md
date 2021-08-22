@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150" src="./Local Storage/images/logox.png">
+    <img width="150" src="./Local Storage/images/development.png">
 </p>
 
 <h1 align="center">LocalStorage</h1>
