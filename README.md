@@ -8,18 +8,18 @@
 A program that stores rolling Students into the Local Storage </br></br>
 </div>
 
-### 📊 Project idea: [Full Stack Development Begginer Demo]
+### 📊 Project idea: Full Stack Development Begginer Demo
 
-## 🌟 Features
+## 🌟 Features/Concepts Learned
 
-- 🙍🏻‍♀️ Signup/Login with Biller
-- 🔏 Protect your data with JWT authentication
-- 🏦 Connect to your Bank online account (Chase, Wells Fargo, etc.)
-- 📑 Connect to utilities account (PG&E, comcast, etc.)
-- 💳 Manage your credit card usage
-- 💵 Monitor your income and expenses' transactions
-- 📈 Visualize your income and spending in a graph
-- ⏰ Alert incoming bills
+- �🖥🏻‍♀️ 2 Front-end Pages
+- 🔏 Backend using Dev Tools (Inspect Element) and the the Local Storage Method
+- 🏦 Implementation of Students and displaying them in the UI
+- 📑 Inserting `Keys/Values` into the Local Storage
+- 💳 Converting strings and arrays using the `.JSON` method.
+- 💵 Appending elements
+- 📈 Storing Arrays/Objects and returning them into a String.
+
 
 ## 📂 Technologies Used
 
