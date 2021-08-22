@@ -48,78 +48,23 @@ You will find your `local server address` from which you're displaying the proje
 - Click the server and you should see `key` which shows the name of the storage that you're inserting data into.
 - Next to the key you'll see `value` which is the string of data with their properties `(name, age, roll)`
 
-### ⚒️ Installation
+### ⚒️ Set Up
 
 ```
-# Clone this repository
-git clone https://github.com/trinityng/biller
+# Open code editor (VS Code)
+dowload git project
 
-# Go into the repository
-cd Biller
-```
+# go to file location by opening your terminal
+cd Local Storage
 
-### 💻 Client Start-up
+# run the code
+code . (if not working: ensure that you have shell-command is installed)
 
-```
-# Go into client folder
-cd client
-# Install client dependencies
-npm install
-# Start client on localhost:3000
-npm start
-```
-
-### ⌨️ Server Start-up
-
-```
-# Create virtual environment (recommend) using conda/virtualenv
-conda create --name your_env_name
-
-# Start virtual env
-source activate your_env_name
-```
-
-```
-# Setup Plaid API Keys
-
-# Go into server folder
-cd server
-
-# Create a file in a root server folder called "Plaid_API_Keys"
-# Place your PLAID_CLIENT_ID, PLAID_SECRET, and PLAID_PUBLIC_KEY in the file
-```
-
-```
-# Install server packages from requirements.txt
-pip3 install -r requirements.txt or python -m pip3 install -r requirements.txt
-
-# Create new migrations
-python3 manage.py makemigrations
-
-# Apply new migrations
-python3 manage.py migrate
-
-# Start server on localhost:8000
-python3 manage.py runserver
-```
-
-## ⚙️ Testing
-
-```
-# Test server using Django unittest
-cd server
-python3 manage.py test
-```
-
-```
-# Test client using Jest and Enzyme
-cd client
-npm test
 ```
 
 ## 📌 Authors
 
-🧑🏽‍💻 **Giovanny Hernandez* - Created the Front End and code along with Max.
+🧑🏽‍💻 **Giovanny Hernandez** - Created the Front End and code along with Max.
 
 🧑🏽‍💻 **Max Programming** - Code along and Explanation into Local Storage
 
