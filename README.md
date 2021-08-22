@@ -25,32 +25,28 @@ A program that stores rolling Students into the Local Storage </br></br>
 
 ### Frontend
 
-- [React](https://github.com/facebook/react)
-- [Redux](https://github.com/reduxjs/redux)
-- [Ant Design](https://github.com/ant-design/ant-design)
-- [Shards Dashboard](https://github.com/DesignRevision/shards-dashboard)
-- [Bootstrap](https://github.com/twbs/bootstrap)
-- [Jest](https://github.com/facebook/jest)
-- [Enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme)
+- HTML
+- CSS
 
 ### Backend
 
-- [Django](https://github.com/django/django)
-- [MySQL](https://www.mysql.com/)
-- [JWT](https://github.com/jpadilla/pyjwt)
-- [Plaid API](https://github.com/plaid/plaid-python)
+- Javascript
 
-## ✅ Getting Started
+## ✅ Task
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Grab the `student-list` file and insert each student into the Local Storage by adding their name, age, and class year.
 
-### 📍 Prerequisites
+### 🗄 How to check the Local Storage
 
-What things you need to install the software and how to install them
+Open Dev Tools by...
 
-- Install [Node.js/npm](https://nodejs.org/en/download/)
-- Install [python3/pip3](https://www.python.org/downloads/) (Version >= 3.6)
-- Install [MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
+- right clicking and click on `Inspect Element`
+- On the Nav Bar find your way into the `>>`.
+- Click on `Application`
+- Scroll down and find `Storage` and click it to view more.
+You will find your `local server address` from which you're displaying the project from.
+- Click the server and you should see `key` which shows the name of the storage that you're inserting data into.
+- Next to the key you'll see `value` which is the string of data with their properties `(name, age, roll)`
 
 ### ⚒️ Installation
 
