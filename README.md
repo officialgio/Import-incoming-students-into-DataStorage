@@ -58,7 +58,7 @@ dowload git project
 cd Local Storage
 
 # run the code
-code . (if not working: ensure that you have shell-command is installed)
+code . (if not working: ensure that you have shell-command installed)
 
 ```
 
