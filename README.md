@@ -20,6 +20,10 @@ A program that stores rolling Students Data into the Local Storage </br></br>
 - ➕ Appending elements
 - 🔀 Storing Arrays/Objects and returning them into a String.
 
+<p align="center">
+    <img width="400" src="./Local Storage/images/homepage.jpg">
+    <img width="400" src="./Local Storage/images/data.jpg">
+</p>
 
 ## 📂 Technologies Used
 
