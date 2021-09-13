@@ -37,6 +37,10 @@ A program that stores rolling Students Data into the Local Storage </br></br>
 - HTML
 - CSS
 
+<p align="center">
+    <img width="400" src="./Local Storage/images/example.png">
+</p>
+
 ### Backend
 
 - Javascript
