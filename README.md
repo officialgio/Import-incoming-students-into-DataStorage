@@ -24,7 +24,7 @@ A program that stores rolling Students Data into the Local Storage </br></br>
     <img width="600" src="./Local Storage/images/homepage.png">
 </p>
 <p align="center">
-    <p> | </p>
+    style="text-align:center;"> |
 </p>
 <p align="center">
     <img width="600" src="./Local Storage/images/data.png">
